@@ -6,3 +6,6 @@ __pycache__
 ga-venv
 dependencies
 data
+
+# environment
+udemy-lambda
