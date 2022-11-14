@@ -9,3 +9,4 @@ data
 
 # environment
 udemy-lambda
+*.json.gz
